@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">SampleQuiz</string>
+
+
+    <string name="question1">1. What is the velocity of an unladen swallow?</string>
+    <string name="question1choice1">45 km per hour.</string>
+    <string name="question1choice2">European or African?</string>
+    <string name="question1choice3">Depend on the season.</string>
+    <string name="question1choice4">25 km per hour.</string>
+
+
+    <string name="question2">2. What is the best View to display an Image?</string>
+    <string name="question2_text">Enter your answer here</string>
+    <string name="question2_answer">ImageView</string>
+
+
+
+    <string name="question3">3. Which of the following Views are implemented in this quiz?</string>
+    <string name="question3choice1">TextView</string>
+    <string name="question3choice2">ImageView</string>
+    <string name="question3choice3">Button</string>
+    <string name="question3choice4">ScrollView</string>
+    <string name="question3choice5">ToggleButton</string>
+    <string name="question3choice6">CheckBox</string>
+    <string name="question3choice7">Switch</string>
+    <string name="question3choice8">RatingBar</string>
+    <string name="question3choice9">EditText</string>
+    <string name="question3choice10">ProgressBar</string>
+
+
+    <string name="question4">4. What is the name of this quiz?</string>
+    <string name="question4_text">Enter your answer here</string>
+    <string name="question4_answer">SampleQuiz</string>
+
+
+    <string name="submit">Submit</string>
+</resources>
